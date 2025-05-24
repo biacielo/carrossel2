@@ -1,0 +1,21 @@
+#carrossel1-Slides{
+    width: 80%;
+}
+#carrossel2-Slides{
+    width: 80%;
+}
+#carrossel3-Slides{
+    width: 80%;
+ 
+}
+#carrossel4-Slides{
+    width: 80%;
+}
+hr{
+    width: 50%;
+    background-color:black;
+}
+body{
+    background-image: linear-gradient(to bottom,  hsl(29, 23%, 38%),rgb(121, 59, 41),#f8c97f);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
